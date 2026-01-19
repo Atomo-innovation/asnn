@@ -234,7 +234,7 @@ if __name__ == '__main__':
     else :
         level = 0
 
-    yolov3 = asnn('VIM3')
+    yolov3 = asnn('Electron')
     print(' |---+ ASNN Version: {} +---| '.format(yolov3.get_nn_version()))
 
     print('Start init neural network ...')
